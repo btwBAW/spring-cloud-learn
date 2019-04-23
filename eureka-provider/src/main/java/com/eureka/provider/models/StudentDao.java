@@ -1,0 +1,1 @@
+package com.eureka.provider.models;import org.springframework.data.repository.PagingAndSortingRepository;/** * Created by DJ_ZJ. */public interface StudentDao extends PagingAndSortingRepository<Student,Long> {}
